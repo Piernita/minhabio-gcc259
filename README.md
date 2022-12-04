@@ -1,5 +1,7 @@
 # CARLOS ÁQUILA
 
+![Perfil](https://avatars.githubusercontent.com/u/31195510?s=400&u=c0acf11f74653bc2b23353c4334745e9312e1618&v=4)
+
 ## PERFIL PROFISSIONAL
 
 Atuei como ***Product Owner*** durante 3 anos obtendo experiências em produtos nacionais e internacionais. Sou curioso e criativo, com fortes habilidades de liderança e de gerenciamento de tempo. Atualmente estou desenvolvendo mais minhas habilidades técnicas em **POO** e busco me inserir na área de *desenvolvimento*.
